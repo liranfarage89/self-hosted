@@ -15,4 +15,10 @@
 
 
 - Adde foo bar
+- Fixed Baz\n          
+## v0.0.26
+
+
+- Adde foo bar
 - Fixed Baz
+\n
