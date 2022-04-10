@@ -8,4 +8,7 @@
 - Fixed Baz<br />## v0.0.10 <br /> 
 
 - Adde foo bar
+- Fixed Baz<br /><br />## v0.0.11 <br /> 
+
+- Adde foo bar
 - Fixed Baz
