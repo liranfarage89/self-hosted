@@ -7,4 +7,8 @@
 
 
 - Adde foo bar
+- Fixed Baz## v0.0.24
+
+
+- Added foo bar
 - Fixed Baz
