@@ -11,4 +11,8 @@
 
 
 - Added foo bar
+- Fixed Baz## v0.0.25
+
+
+- Adde foo bar
 - Fixed Baz
