@@ -21,4 +21,8 @@
 
 - Adde foo bar
 - Fixed Baz
-\n
+\n## v0.0.27
+
+
+- Adde foo bar
+- Fixed Baz
