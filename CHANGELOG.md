@@ -11,4 +11,10 @@
 - Fixed Baz<br /><br />## v0.0.11 <br /> 
 
 - Adde foo bar
+- Fixed Baz''
+'## v0.0.13'
+
+
+- Adde foo bar
 - Fixed Baz
+''
