@@ -50,4 +50,9 @@
 
 
 - Adde foo bar
+- Fixed Baz<br />          
+## v0.0.32
+
+
+- Adde foo bar
 - Fixed Baz
