@@ -90,4 +90,9 @@
 
 
 - Adde foo bar
+- Fixed Baz<br />          
+## v0.0.40
+
+
+- Adde foo bar
 - Fixed Baz
