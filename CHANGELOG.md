@@ -80,4 +80,9 @@
 
 
 - Adde foo bar
+- Fixed Baz<br />          
+## v0.0.38
+
+
+- Adde foo bar
 - Fixed Baz
