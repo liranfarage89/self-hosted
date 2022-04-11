@@ -110,4 +110,9 @@
 
 
 - Adde foo bar
+- Fixed Baz<br />          
+## v0.0.44
+
+
+- Adde foo bar
 - Fixed Baz
