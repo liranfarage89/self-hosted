@@ -135,4 +135,8 @@
 
 
 - Adde foo bar
-- Fixed Baz
+- Fixed Baz<br />          
+## v0.0.50
+
+- Added Bar
+- Fix Baz
