@@ -143,4 +143,8 @@
 ## 
 
 - Added Bar
+- Fix Baz<br />
+## 
+
+- Added Bar
 - Fix Baz
