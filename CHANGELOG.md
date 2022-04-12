@@ -147,4 +147,8 @@
 ## 
 
 - Added Bar
+- Fix Baz<br />
+## v0.0.61
+
+- Added Bar
 - Fix Baz
