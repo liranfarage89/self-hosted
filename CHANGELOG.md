@@ -85,4 +85,6 @@
 ## v0.0.64
 
 - Added Bar
-- Fix Baz
+- Fix Baz&nbsp;
+## v0.0.65
+- Stability Improvement
