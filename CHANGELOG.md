@@ -79,4 +79,8 @@
 - Fix: Empty values in generated values.yaml overrides user's custom values when  @roni-frantchi (#9456)
 &nbsp;
 ## v0.0.65
-- Stability Improvement
+- Stability Improvement&nbsp;
+## v0.0.64
+
+- Added Bar
+- Fix Baz
