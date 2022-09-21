@@ -81,4 +81,8 @@
 ## v0.0.64
 
 - Added Bar
+- Fix Baz&nbsp;
+## v0.0.64
+
+- Added Bar
 - Fix Baz
